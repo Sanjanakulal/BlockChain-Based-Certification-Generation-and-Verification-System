@@ -52,3 +52,5 @@ git clone https://github.com/Sanjanakulal/BlockChain-Based-Certification-Generat
 cd project-directory
 npm install
 npm run dev
+
+Minor documentation improvement.
